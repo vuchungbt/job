@@ -1,0 +1,28 @@
+{
+  "development": {
+    "username": "huybe1",
+    "password": "huybe@2912Q",
+    "database": "jobfindtest",
+    "host": "149.28.154.221",
+    "dialect": "mysql",
+    "logging": false,
+    "query": {
+      "raw": true
+    },
+    "timezone": "+07:00"
+  },
+  "test": {
+    "username": "huybe1",
+    "password": "huybe@2912Q",
+    "database": "jobfindtest",
+    "host": "149.28.154.221",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "huybe1",
+    "password": "huybe@2912Q",
+    "database": "jobfindtest",
+    "host": "149.28.154.221",
+    "dialect": "mysql"
+  }
+}
